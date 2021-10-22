@@ -1,0 +1,6 @@
+MySQL:
+  Host: 192.168.88.120
+  User: root
+  Password: pacman
+  DBName: morpheus #morpheus
+  Port: 3306
